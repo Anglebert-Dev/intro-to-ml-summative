@@ -6,9 +6,9 @@ Author: Anglebert Shumbusho Ishimwe · Introduction to Machine Learning, Summati
 
 | Resource | Link |
 |---|---|
-| GitHub repository | [add repository link] |
+| GitHub repository | https://github.com/Anglebert-Dev/intro-to-ml-summative |
 | Google Drive (raw dataset and saved models) | https://drive.google.com/drive/folders/1eeBOf7BjKl9XSUJ1c-37NlpVUqoZPoJK |
-| Video presentation | [add video link] |
+| Video presentation | |
 
 ## Problem
 Free online learning platforms widen access to education, but many learners fail or drop out before anyone notices. Mentors are few, so they need to know early which learners need help.
